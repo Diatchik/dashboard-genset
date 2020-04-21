@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/dashboard-genset/static/css/main.c99e30ba.chunk.css",
+    "main.js": "/dashboard-genset/static/js/main.a48fa7d8.chunk.js",
+    "main.js.map": "/dashboard-genset/static/js/main.a48fa7d8.chunk.js.map",
+    "runtime-main.js": "/dashboard-genset/static/js/runtime-main.69545385.js",
+    "runtime-main.js.map": "/dashboard-genset/static/js/runtime-main.69545385.js.map",
+    "static/css/2.69121389.chunk.css": "/dashboard-genset/static/css/2.69121389.chunk.css",
+    "static/js/2.35b94721.chunk.js": "/dashboard-genset/static/js/2.35b94721.chunk.js",
+    "static/js/2.35b94721.chunk.js.map": "/dashboard-genset/static/js/2.35b94721.chunk.js.map",
+    "index.html": "/dashboard-genset/index.html",
+    "precache-manifest.6adc6cbc5e91b384b0c41d6f8961abce.js": "/dashboard-genset/precache-manifest.6adc6cbc5e91b384b0c41d6f8961abce.js",
+    "service-worker.js": "/dashboard-genset/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/dashboard-genset/static/css/2.69121389.chunk.css.map",
+    "static/css/main.c99e30ba.chunk.css.map": "/dashboard-genset/static/css/main.c99e30ba.chunk.css.map",
+    "static/js/2.35b94721.chunk.js.LICENSE.txt": "/dashboard-genset/static/js/2.35b94721.chunk.js.LICENSE.txt",
+    "static/media/bar-chart.svg": "/dashboard-genset/static/media/bar-chart.c1ed66a3.svg",
+    "static/media/card-checklist.svg": "/dashboard-genset/static/media/card-checklist.908fa69c.svg",
+    "static/media/fuel-level.svg": "/dashboard-genset/static/media/fuel-level.3c226ca8.svg",
+    "static/media/gear.svg": "/dashboard-genset/static/media/gear.fdbd4993.svg",
+    "static/media/oil-level.svg": "/dashboard-genset/static/media/oil-level.59b84587.svg",
+    "static/media/temperature.svg": "/dashboard-genset/static/media/temperature.4e61cdc1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69545385.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.35b94721.chunk.js",
+    "static/css/main.c99e30ba.chunk.css",
+    "static/js/main.a48fa7d8.chunk.js"
+  ]
+}
