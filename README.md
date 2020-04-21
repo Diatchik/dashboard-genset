@@ -1,1 +1,1 @@
-# dashboard-genset
+https://Diatchik.github.io/dashboard-genset/
